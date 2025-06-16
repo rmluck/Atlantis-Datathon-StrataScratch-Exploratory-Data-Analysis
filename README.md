@@ -6,9 +6,9 @@
 
 ## 📖 Overview
 
-This project was developed as part of the **2024 UC Irvine Atlantis Datathon**, using a dataset provided by [StrataScratch](https://www.stratascratch.com/) that contains data related to the Airbnb market in Dublin, Ireland. The goal of the analysis was to uncover actionable insights related to market demand and supply, aiming to elevate the Airbnb experience for guests and hosts through data exploration, transformation, and visualization.
+Conducted in-depth exploratory data analysis using [StrataScratch](https://www.stratascratch.com/) datasets. Collaborated with team to visualize insights on market supply and demand, focusing on elevating Airbnb user experience for guests and hosts. Developed and tested decision tree classifier machine learning model using Python that achieved 89.35% accuracy rate leveraging tools like DeepNote and Alteryx Designer.
 
-🏆 Received the 1st Place Prize for **Best Analysis of Airbnb Market in Dublin [Sponsored by StrataScratch]**
+🏆 Received the 1st Place Prize for **Best Analysis of Airbnb Market in Dublin [Sponsored by StrataScratch]** at the **2024 UC Irvine Atlantis Datathon**.
 
 🔗 **Devpost**: [https://devpost.com/software/lost-in-dublin](https://devpost.com/software/lost-in-dublin)
 
@@ -77,11 +77,10 @@ Run the Jupyter notebook to view the data analysis and associated visual summari
 
 ## 🧰 Tech Stack
 
-* Python, Jupyter Notebook
+* Python, Jupyter Notebook, DeepNote, Alteryx Designer
 * **Data Analysis**: __pandas__, __numpy__, __scikit-learn__
 * **Machine Learning**: __scikit-learn__
 * **Visualization**: __seaborn__, __matplotlib__
-* **Presentation**: DeepNote, Alteryx Designer
 
 ---
 
