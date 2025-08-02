@@ -77,10 +77,12 @@ Run the Jupyter notebook to view the data analysis and associated visual summari
 
 ## 🧰 Tech Stack
 
-* Python, Jupyter Notebook, DeepNote, Alteryx Designer
-* **Data Analysis**: __pandas__, __numpy__, __scikit-learn__
-* **Machine Learning**: __scikit-learn__
-* **Visualization**: __seaborn__, __matplotlib__
+* Python, Jupyter Notebook
+* **Data Analysis**: `pandas`, `numpy`, Alteryx Designer
+* **Machine Learning**: `scikit-learn`
+* **Visualization**: `seaborn`, `matplotlib`
+* **Presentation**: DeepNote, Google Slides
+* **Collaboration**: Google Workspace
 
 ---
 
